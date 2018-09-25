@@ -13,6 +13,7 @@
 :: - check if features are enabled, programs installed and boot manager entries present before going on (especially last one - tricky, no powershell module for that!)
 :: - remove ubuntu appx after install (check successful install?)
 
+
 :: Session handling
 :: - stage 1 needs to run in admin, stage2 in user context.
 :: - check if stage 1 file exists and goto stage2 if it does
