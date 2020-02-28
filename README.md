@@ -5,7 +5,7 @@
 Set up a Windows PC for development of Ansible playbooks.
 Installs Visual Studio Code, Chocolatey package manager, WSL Ubuntu 18.04, Docker, Virtualbox, Vagrant and other programs ready to use.
 
-For usage ideas, see: https://www.frostbyte.us/configure-an-ansible-testing-system-on-windows-part-1/
+For usage ideas, see: <https://www.frostbyte.us/configure-an-ansible-testing-system-on-windows-part-1/>
 
 ## Todo
 
