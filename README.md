@@ -19,4 +19,4 @@ For usage ideas, see: <https://www.frostbyte.us/configure-an-ansible-testing-sys
 ## Authors
 
 Jannik Grube <jan@janfux.de>
-Kasper Beiter Lauridsen <kasp9518@elevcampus.dk>
+Kasper Beiter Lauridsen <kasperbeiter@hotmail.com>
