@@ -4,15 +4,8 @@
 :: For usage ideas, see: https://www.frostbyte.us/configure-an-ansible-testing-system-on-windows-part-1/
 
 :: AUTHORS
-:: Jannik Grube <jann497f@elevcampus.dk>
-:: Kasper Beiter Lauridsen <kasp9518@elevcampus.dk>
-
-:: TODO
-:: - output informative information to screen, keep user informed of whats going on
-:: - maybe limit output of some programs / screen candy
-:: - check if features are enabled, programs installed and boot manager entries present before going on (especially last one - tricky, no powershell module for that!)
-:: - remove ubuntu appx after install (check successful install?)
-
+:: Jannik Grube <jan@janfux.de>
+:: Kasper Beiter Lauridsen <kasperbeiter@hotmail.com>
 
 :: Session handling
 :: - stage 1 needs to run in admin, stage2 in user context.
