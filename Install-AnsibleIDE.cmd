@@ -63,7 +63,7 @@ curl.exe -L -o %USERPROFILE%\Downloads\ubuntu-1804.appx https://aka.ms/wsl-ubunt
 powershell Add-AppxPackage %USERPROFILE%\Downloads\ubuntu-1804.appx
 :: - run ubuntu-1804 installer
 ubuntu1804 install
-:: - run linux commands in one batch, getting ready to use ansible in wsl to manage windows machines :-)
+:: - run linux commands in one batch
 ::   see: https://www.frostbyte.us/ansible-integrated-development-environment-setup-on-windows/
 wsl sudo -H sh -c "apt-add-repository -yu ppa:ansible/ansible && apt-get -y install ansible python-pip libkrb5-dev krb5-user && pip install --upgrade pip && pip install --upgrade pyvmomi pywinrm[kerberos] pywinrm[credssp] && apt-get -y upgrade"
 :: - clean up stagefile
